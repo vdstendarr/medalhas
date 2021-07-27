@@ -1,9 +1,9 @@
 # Medalhas
 ---
 
-![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/shield.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/shield2.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/patrocinador.gif) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/desafiador.gif)\
+![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/shield.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/shield_simple.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/patrocinador.gif) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/desafiador.gif)\
 `![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/shield.png)`\
-`![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/shield2.png)`\
+`![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/shield_simple.png)`\
 `![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/patrocinador.gif)`\
 `![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/desafiador.gif)`
 
