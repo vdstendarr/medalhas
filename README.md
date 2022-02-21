@@ -13,7 +13,7 @@
 ---
 ### Bloqueado
 
-![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/novato_locked.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/aspirante_locked.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/notavel_locked.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/vigilante_locked.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/anciao_locked.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/lenda_locked.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/celestial_locked.png)\
+![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/aspirante_locked.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/notavel_locked.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/vigilante_locked.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/anciao_locked.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/lenda_locked.png) ![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/celestial_locked.png)\
 `![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/novato_locked.png)`\
 `![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/aspirante_locked.png)`\
 `![](https://raw.githubusercontent.com/vdstendarr/medalhas/main/notavel_locked.png)`\
